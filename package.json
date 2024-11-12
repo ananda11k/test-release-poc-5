@@ -1,0 +1,33 @@
+{
+  "name": "test-release-poc-4",
+  "version": "1.0.0",
+  "engines": {
+    "node": "v20.x"
+  },
+  "private": true,
+  "description": "test-release-poc-4",
+  "main": "node src/index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anandakumarpalanisamy/test-release-poc-4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anandakumarpalanisamy/test-release-poc-4/issues"
+  },
+  "homepage": "https://github.com/anandakumarpalanisamy/test-release-poc-4#readme",
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/exec": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "^10.3.1",
+    "@semantic-release/npm": "^12.0.1",
+    "@semantic-release/release-notes-generator": "^14.0.1",
+    "conventional-changelog-conventionalcommits": "^8.0.0",
+    "semantic-release": "^24.1.0"
+  }
+}
