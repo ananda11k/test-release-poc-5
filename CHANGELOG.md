@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/ananda11k/test-release-poc-5/compare/v1.0.0...v1.1.0) (2024-11-12)
+
+
+### Features
+
+* cleanup readme ([#6](https://github.com/ananda11k/test-release-poc-5/issues/6)) ([197096a](https://github.com/ananda11k/test-release-poc-5/commit/197096a10959b9728a469531367e548781fb75dc))
+
 # 1.0.0 (2024-11-12)
 
 
