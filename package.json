@@ -1,6 +1,6 @@
 {
-  "name": "test-release-poc-4",
-  "version": "1.0.0",
+  "name": "test-release-poc-5",
+  "version": "0.0.0",
   "engines": {
     "node": "v20.x"
   },
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anandakumarpalanisamy/test-release-poc-4.git"
+    "url": "git+https://github.com/annada11k/test-release-poc-5.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/anandakumarpalanisamy/test-release-poc-4/issues"
+    "url": "https://github.com/annada11k/test-release-poc-5/issues"
   },
-  "homepage": "https://github.com/anandakumarpalanisamy/test-release-poc-4#readme",
+  "homepage": "https://github.com/annada11k/test-release-poc-5#readme",
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/exec": "^6.0.3",
