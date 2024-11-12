@@ -10,6 +10,7 @@ env:
 
 jobs:
   create-release:
+    runs-on: ubuntu-latest
     steps:
       - name: Generator token
         id: generate_token
